@@ -28,5 +28,4 @@
 [![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/dev-divyansh) &nbsp; &nbsp;
 [![ C  ](https://img.shields.io/badge/C-00008B?style=for-the-badge&logo=c&logoColor=white)](https://github.com/dev-divyansh) &nbsp; &nbsp;
 
-[![Java Script](https://img.shields.io/badge/Java-Script-FF0000?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/dev-divyansh) &nbsp; &nbsp;
 
