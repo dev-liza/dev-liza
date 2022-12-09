@@ -22,7 +22,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/liza-bhutani)&nbsp; &nbsp;
  &nbsp; &nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-007B5?style=for-the-badge&logo=twitter&logoColor=blue)](https://www.twitter.com/dev_pratap3250/)
+[![Twitter](https://img.shields.io/badge/Twitter-007B5?style=for-the-badge&logo=twitter&logoColor=blue)](https://www.twitter.com/liza_bhutani/)
 
 ##  Language's and Tools I  use
 [![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/dev-divyansh) &nbsp; &nbsp;
